@@ -1,0 +1,15 @@
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/')
+def hello_world():
+    return 'Welcome to Flask World!'
+
+@app.route('/hello')
+def hello_wprld():
+    return 'Welcome to Flask World!!!!!'
+
+if __name__ == '__main__':
+    app.debug = True
+    app.run(host='localhost')
