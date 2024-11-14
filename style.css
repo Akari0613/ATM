@@ -133,7 +133,11 @@ a:hover.button{
     font-size:25px;
 }
 .app-intro p{
-    margin-bottom: 10%;
+    margin-bottom: 3%;
+}
+.cartoon{
+    text-align: center;
+    margin-bottom: 3%;
 }
 
 /* アプリが活躍する場面 */
