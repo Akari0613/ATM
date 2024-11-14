@@ -319,6 +319,9 @@ a:hover.button{
 
 /* 実用例 */
 .examples{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 35px;
 
 }
 
