@@ -220,7 +220,7 @@ a:hover.button{
     background: #FFF;
     border-radius: 10px;
     width:300px;
-    height:300px;
+    height:auto;
     position: relative;
 }
 .item1 p{
