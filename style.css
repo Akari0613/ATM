@@ -176,7 +176,7 @@ a:hover.button{
 }
 .troubleanswer h2 {
     font-size: 35px;
-    color: #fff; /* 白文字 */
+    color: #fffff;
     text-align: center;
 }
 .grid{
@@ -230,7 +230,6 @@ a:hover.button{
 .wrapper2 h2{
     font-size:35px;
     text-align: center;
-    color:rgb(66, 8, 8); 
 }
 
 .wrapper2{
