@@ -238,6 +238,11 @@ a:hover.button{
     text-align: center;
     color:rgb(66, 8, 8); 
 }
+.troubleshoot h2{
+  font-size:35px;
+    text-align: center;
+    color:#fff ;
+}
 .wrapper2{
     padding: 20px;
 }
