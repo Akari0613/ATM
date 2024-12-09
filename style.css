@@ -184,7 +184,6 @@ a:hover.button{
 .troubleanswer{
     text-align: center;
     font-weight: bold;
-    background-color: #80a491;
     background: linear-gradient(to right,#9ec3af ,#80a491 );
     width:100%;
 }
