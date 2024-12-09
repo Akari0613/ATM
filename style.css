@@ -175,15 +175,15 @@ a:hover.button{
     font-size:35px;
 }
 
-.troubleanswer{
+.troubleanswer {
     text-align: center;
     font-weight: bold;
-    background: linear-gradient(to right,#9ec3af ,#80a491 );
-    width:100%;
+    background: linear-gradient(to right, #9ec3af, #80a491);
+    width: 100%;
 }
 .troubleanswer h2 {
     font-size: 35px;
-    color: #fff;
+    color: #fff; /* 白文字 */
     text-align: center;
 }
 .grid{
