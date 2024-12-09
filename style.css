@@ -181,9 +181,10 @@ a:hover.button{
     background: linear-gradient(to right,#9ec3af ,#80a491 );
     width:100%;
 }
-.troubleanswer h2{
-    font-size:35px;
-    color: #FFF;
+.troubleanswer h2 {
+    font-size: 35px;
+    color: #fff;
+    text-align: center;
 }
 .grid{
     display: flex;
